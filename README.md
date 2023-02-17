@@ -29,7 +29,7 @@
                 - Accelerate ASTC texture decoding: *ON*
                 - Resolution: *1X (720p/1080p)*
                 - Window Adapting Filter: *Bilinear*
-                - Anti-Aliasing Method: *None*
+                - Anti-Aliasing Method: *FXAA* / *None*
             - Advanced
                 - Accuracy Level: *Normal* ???
                 - Use VSync: *ON*
