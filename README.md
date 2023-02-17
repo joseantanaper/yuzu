@@ -8,28 +8,28 @@
 ## Quick Config
 * Launch **yuzu**
 * Emulation > Configure
+ * General
   * General
-    * General
-      * Limit Speed Percent: *100%*
-      * Multicure CPU Emulation: *ON*
-      * Extended memory layout (6GB DRAM): *ON* ???
-      * Confirm exit while emulation is running: *ON*
-      * Hide mouse on inactivity: *ON*
+   * Limit Speed Percent: *100%*
+   * Multicure CPU Emulation: *ON*
+   * Extended memory layout (6GB DRAM): *ON* ???
+   * Confirm exit while emulation is running: *ON*
+   * Hide mouse on inactivity: *ON*
   * System
     * System: set *Language*, *Region* and *Device name*.
     * Profiles: create a new *Profile* with your own name and *Set Image*.
   * CPU
     * Accuracy: *Auto*
-   * Graphics
     * Graphics
-     * API: *Vulkan* ???
-     * Device: *Your most powerful GPU*
-     * Use disk pipeline cache: *ON*
-     * Use asynchronous GPU emulation: *ON*
-     * Accelerate ASTC texture decoding: *ON*
-     * Resolution: *1X (720p/1080p)*
-     * Window Adapting Filter: *Bilinear*
-     * Anti-Aliasing Method: *None*
+      * Graphics
+        * API: *Vulkan* ???
+        * Device: *Your most powerful GPU*
+        * Use disk pipeline cache: *ON*
+        * Use asynchronous GPU emulation: *ON*
+        * Accelerate ASTC texture decoding: *ON*
+        * Resolution: *1X (720p/1080p)*
+        * Window Adapting Filter: *Bilinear*
+        * Anti-Aliasing Method: *None*
     * Advanced
      * Accuracy Level: *Normal* ???
      * Use VSync: *ON*
