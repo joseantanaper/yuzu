@@ -8,8 +8,8 @@
 ## Quick Config
 1. Launch **yuzu**
 2. Emulation > Configure
- - General
   - General
+    - General
    * Limit Speed Percent: *100%*
    * Multicure CPU Emulation: *ON*
    * Extended memory layout (6GB DRAM): *ON* ???
