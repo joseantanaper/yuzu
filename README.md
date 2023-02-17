@@ -2,7 +2,9 @@
 
 ## Setup
 yuzu_install.exe
-Copy ProdKeys ( into [C:\Users\%USERNAME%\AppData\Roaming\yuzu\keys](C:\Users\%USERNAME%\AppData\Roaming\yuzu\keys)
+Copy ProdKeys.zip and extract (prod.keys, title.keys) into [C:/Users/%USERNAME%/AppData/Roaming/yuzu/keys](C:/Users/%USERNAME%/AppData/Roaming/yuzu/keys)
+[C:/Users/%USERNAME%/AppData/Roaming/yuzu/keys](C:/Users/%USERNAME%/AppData/Roaming/yuzu/keys)
+[C:\\Users\\%USERNAME%\\AppData\\Roaming\\yuzu\\keys](C:\\Users\\%USERNAME%\\AppData\\Roaming\\yuzu\\keys)
 
 
 
