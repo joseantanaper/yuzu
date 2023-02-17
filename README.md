@@ -1,7 +1,6 @@
 # yuzu | Nintendo Switch Emulator / My Notes
 
-![yuzu](https://raw.githubusercontent.com/yuzu-emu/yuzu-assets/master/icons/icon.png)
-
+<img src="https://raw.githubusercontent.com/yuzu-emu/yuzu-assets/master/icons/icon.png" width="320px" />
 
 ## Setup Yuzu
 1. Execute **yuzu_install.exe**
