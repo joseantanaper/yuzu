@@ -1,4 +1,4 @@
-# yuzu
+# Yuzu / Nintendo Switch - Emulator and Console Tips
 
 ## Setup
 
@@ -10,13 +10,12 @@ prod.keys
 title.keys
 
 ## Downloads
+
 ### Yuzu Emulator
 [https://yuzu-emu.org/downloads/](https://yuzu-emu.org/downloads/)
 
-<a href="https://www.markdownguide.org" target="_blank">Learn Markdown!</a>
-
-
 ### Prod Keys:
 [https://prodkeys.net/yuzu-prod-keys/](https://prodkeys.net/yuzu-prod-keys/)
+
 ### Firmware:
 [https://prodkeys.net/switch-firmwares/](https://prodkeys.net/switch-firmwares/)
