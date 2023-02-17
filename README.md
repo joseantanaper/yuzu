@@ -1,6 +1,6 @@
 # yuzu / Nintendo Switch - Emulator and Console Tips
 
-## Setup
+## Setup Yuzu
 1. Execute **yuzu_install.exe**
 2. Copy **ProdKeys.zip** and extract **prod.keys** and **title.keys** into
 [*C:/Users/%USERNAME%/AppData/Roaming/yuzu/keys*](file:///C:/Users/%USERNAME%/AppData/Roaming/yuzu/keys)
@@ -35,10 +35,15 @@
                 - Use VSync: *ON*
                 - Use Fast GPU Time (Hack): *ON*
                 - Use Vulkan pipeline cache: *ON*
-                - Anisotropic Filtering: *Automatic* (**Automatic**, Default, 2X, 4X, 8X, 16X)
+                - Anisotropic Filtering: *16X* (**Automatic**, Default, 2X, 4X, 8X, 16X)
         - Controls
             - Pro Controller - XBox One Controller 0
 3. Double-click to add a new folder to the game list.
+
+## Setup Yuzu Mod Downloader
+1. Copy and extract **YuzuModDownloader.zip** into
+[C:\Users\%USERNAME%\AppData\Local\yuzu](C:\Users\%USERNAME%\AppData\Local\yuzu)
+2. Execute **YuzuModDownloader.exe** and download latest mods.
 
 ***
 
@@ -61,3 +66,6 @@ title.keys
 
 ### Firmware:
 [https://prodkeys.net/switch-firmwares/](https://prodkeys.net/switch-firmwares/)
+
+### Yuzu Mod Downloader
+[https://github.com/amakvana/YuzuModDownloader/releases/tag/v1.3.1.0](https://github.com/amakvana/YuzuModDownloader/releases/tag/v1.3.1.0)
