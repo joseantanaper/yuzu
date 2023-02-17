@@ -1,6 +1,10 @@
 # Yuzu / Nintendo Switch - Emulator and Console Tips
 
 ## Setup
+yuzu_install.exe
+Copy ProdKeys ( into [C:\Users\%USERNAME%\AppData\Roaming\yuzu\keys](C:\Users\%USERNAME%\AppData\Roaming\yuzu\keys)
+
+
 
 ## Paths
 C:\Users\%USERNAME%\AppData\Local\yuzu
