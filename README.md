@@ -1,10 +1,10 @@
 # Yuzu / Nintendo Switch - Emulator and Console Tips
 
 ## Setup
-yuzu_install.exe
-Copy ProdKeys.zip and extract (prod.keys, title.keys) into [C:/Users/%USERNAME%/AppData/Roaming/yuzu/keys](C:/Users/%USERNAME%/AppData/Roaming/yuzu/keys)
-[C:/Users/%USERNAME%/AppData/Roaming/yuzu/keys](C:/Users/%USERNAME%/AppData/Roaming/yuzu/keys)
-[C:\\Users\\%USERNAME%\\AppData\\Roaming\\yuzu\\keys](C:\\Users\\%USERNAME%\\AppData\\Roaming\\yuzu\\keys)
+* *yuzu_install.exe*
+* Copy *ProdKeys.zip* and extract *prod.keys* and *title.keys* into [C:/Users/%USERNAME%/AppData/Roaming/yuzu/keys](C:/Users/%USERNAME%/AppData/Roaming/yuzu/keys)
+[C:/Users/%USERNAME%/AppData/Roaming/yuzu/keys](file://C:/Users/%USERNAME%/AppData/Roaming/yuzu/keys)
+[C:\\Users\\%USERNAME%\\AppData\\Roaming\\yuzu\\keys](file://C:\\Users\\%USERNAME%\\AppData\\Roaming\\yuzu\\keys)
 
 
 
