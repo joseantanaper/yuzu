@@ -1,11 +1,25 @@
-# Yuzu / Nintendo Switch - Emulator and Console Tips
+# yuzu / Nintendo Switch - Emulator and Console Tips
 
 ## Setup
-* Execute __yuzu_install.exe__
-* Copy __ProdKeys.zip__ and extract __prod.keys__ and __title.keys__ into
-[C:/Users/%USERNAME%/AppData/Roaming/yuzu/keys](file:///C:/Users/%USERNAME%/AppData/Roaming/yuzu/keys)
-[C:/Users/%USERNAME%/AppData/Roaming/yuzu/keys](file://C:/Users/%USERNAME%/AppData/Roaming/yuzu/keys)
-[C:\\Users\\%USERNAME%\\AppData\\Roaming\\yuzu\\keys](file://C:\\Users\\%USERNAME%\\AppData\\Roaming\\yuzu\\keys)
+* Execute **yuzu_install.exe**
+* Copy **ProdKeys.zip** and extract **prod.keys** and **title.keys** into
+[*C:/Users/%USERNAME%/AppData/Roaming/yuzu/keys*](file:///C:/Users/%USERNAME%/AppData/Roaming/yuzu/keys)
+
+## Quick Config
+* Launch **yuzu**
+* Emulation > Configure
+  * General
+    * General
+      * Limit Speed Percent: 100%
+      * Multicure CPU Emulation: ON
+      * Extended memory layout (6GB DRAM): ON ???
+      * Confirm exit while emulation is running: ON
+      * Hide mouse on inactivity: ON
+  * System
+    * System: set *Language*, *Region* and *Device name*.
+    * Profiles: create a new *Profile* with your own name and *Set Image*.
+  * CPU
+    * Accuracy: Auto
 
 
 
