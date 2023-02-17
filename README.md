@@ -1,4 +1,7 @@
-# yuzu / Nintendo Switch - Emulator and Console Tips
+# yuzu | Nintendo Switch Emulator / My Notes
+
+![yuzu](https://raw.githubusercontent.com/yuzu-emu/yuzu-assets/master/icons/icon.png)
+
 
 ## Setup Yuzu
 1. Execute **yuzu_install.exe**
@@ -11,7 +14,7 @@
     - General
         - General
             - Limit Speed Percent: *100%*
-            - Multicure CPU Emulation: *ON*
+            - Multicore CPU Emulation: *ON*
             - Extended memory layout (6GB DRAM): *ON* ???
             - Confirm exit while emulation is running: *ON*
             - Hide mouse on inactivity: *ON*
@@ -31,7 +34,7 @@
                 - Window Adapting Filter: *Bilinear*
                 - Anti-Aliasing Method: *FXAA*
             - Advanced
-                - Accuracy Level: *High*
+                - Accuracy Level: *Normal* | High
                 - Use VSync: *ON*
                 - Use Fast GPU Time (Hack): *ON*
                 - Use Vulkan pipeline cache: *ON*
