@@ -22,20 +22,20 @@
             - Accuracy: *Auto*
         - Graphics
             - Graphics
-                - API: *Vulkan* ???
+                - API: *Vulkan*
                 - Device: *Your most powerful GPU*
                 - Use disk pipeline cache: *ON*
                 - Use asynchronous GPU emulation: *ON*
                 - Accelerate ASTC texture decoding: *ON*
                 - Resolution: *1X (720p/1080p)*
                 - Window Adapting Filter: *Bilinear*
-                - Anti-Aliasing Method: *FXAA* / *None*
+                - Anti-Aliasing Method: *FXAA*
             - Advanced
-                - Accuracy Level: *Normal* ???
+                - Accuracy Level: *High*
                 - Use VSync: *ON*
                 - Use Fast GPU Time (Hack): *ON*
                 - Use Vulkan pipeline cache: *ON*
-                - Anisotropic Filtering: *16X* *(Automatic, Default, 2X, 4X, 8X, *16X*)*
+                - Anisotropic Filtering: *16X* | (Automatic, Default, 2X, 4X, 8X, **16X**)
         - Controls
             - Pro Controller - XBox One Controller 0
 3. Double-click to add a new folder to the game list.
