@@ -35,7 +35,7 @@
                 - Use VSync: *ON*
                 - Use Fast GPU Time (Hack): *ON*
                 - Use Vulkan pipeline cache: *ON*
-                - Anisotropic Filtering: *16X* (**Automatic**, Default, 2X, 4X, 8X, 16X)
+                - Anisotropic Filtering: *16X* **(Automatic, Default, 2X, 4X, 8X, ***16X***)**
         - Controls
             - Pro Controller - XBox One Controller 0
 3. Double-click to add a new folder to the game list.
