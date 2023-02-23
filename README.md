@@ -51,8 +51,11 @@
 
 ## Paths
 C:\\Users\\%USERNAME%\\AppData\\Local\\yuzu
+
 C:\\Users\\%USERNAME%\\AppData\\Roaming\\yuzu
+
 C:\\Users\\%USERNAME%\\AppData\\Roaming\\yuzu\\keys
+
 prod.keys
 title.keys
 
