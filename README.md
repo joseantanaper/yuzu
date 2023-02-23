@@ -5,7 +5,7 @@
 ## Setup Yuzu
 1. Execute **yuzu_install.exe**
 2. Copy **ProdKeys.zip** and extract **prod.keys** and **title.keys** into
-[*C:/Users/%USERNAME%/AppData/Roaming/yuzu/keys*](file:///C:/Users/%USERNAME%/AppData/Roaming/yuzu/keys)
+[*C:\\Users\\%USERNAME%\\AppData\\Roaming\\yuzu/keys*]
 
 ## Quick Config
 1. Launch **yuzu**
